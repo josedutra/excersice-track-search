@@ -2,40 +2,12 @@
   text-align: center;
 }
 
-.App-track-card {
-  margin-top: 20px;
-  margin-bottom: 50px;
-  color: white;
-  font-size: 20px;
-  text-align: center;
-
-}
-
 .App-login {
   padding-top: 20px;
   margin-bottom: 20px;
-  color: white;
+  /* color: white; */
 }
 
-body{
-  background-color: #282c34;
-
-}
-
-.App-grid-container {
-  display: grid;
-  grid-template-columns: auto auto auto auto;
-  padding-top: 2%;
-  padding-left: 20%;
-  padding-right: 20%;
-  align-items: center;
-}
-
-.App-error-notification{
-  color:white;
-  font-size: 30px;
-
-}
 
 
 
